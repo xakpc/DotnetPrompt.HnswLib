@@ -51,6 +51,3 @@ If you seek additional information  or guidance on HNSW or related topics, here 
   * Faiss (C++ with Python bindings): https://github.com/facebookresearch/faiss
   * Annoy (C++ with Python bindings): https://github.com/spotify/annoy
   * hnswlib (C++ with Python bindings): https://github.com/nmslib/hnswlib
-1. Tutorials and Blog Posts: There are various tutorials and blog posts available online that provide an overview of the HNSW algorithm, its applications, and usage examples. Some examples include:
-  * "Approximate Nearest Neighbors Algorithms: From LSH to HNSW" by Erik Bernhardsson: https://erikbern.com/2018/06/17/approximate-nearest-neighbors-algorithms-from-lsh-to-hnsw.html
-  * "Approximate Nearest Neighbors with HNSW" by Ben Frederickson: https://www.benfrederickson.com/approximate-nearest-neighbours-for-recommender-systems/
