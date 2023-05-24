@@ -1,4 +1,4 @@
-# DotnetPrompt.HnswLib
+# DotnetPrompt.HnswLib (WIP)
 .NET-based Hierarchical Navigable Small World (HNSW) search library. 
 
 HNSW is an efficient approximate nearest neighbor search algorithm that aims to find nearest neighbors in high-dimensional spaces.
