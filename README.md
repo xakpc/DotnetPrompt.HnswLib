@@ -5,6 +5,8 @@ HNSW is an efficient approximate nearest neighbor search algorithm that aims to 
 
 DotnetPrompt.HnswLib actively utilizes AVX and SSE to calculate distances in a most efficient way.
 
+**So far only `IVectorSpace.Distance` and `NormalizeFunction` is implemented (which is enough if you want to do bruteforce search), index itself currently is unusable due to poor performance**
+
 ## Components
 1. HnswIndex - Manages the HNSW graph and provides APIs for insertion, search, and serialization
 2. HnswNode - Represents a single data point in the HNSW graph
